@@ -1,4 +1,5 @@
-# One Month Rails
+# Second updates from Git Commit	
 
-This is the sample application for 
-[OMR](http://onemonthrails.com)
+After attaching heroku SSH. 
+
+Is the original Git SSH still valid? 
